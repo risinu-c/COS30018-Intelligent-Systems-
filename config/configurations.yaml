@@ -1,0 +1,5 @@
+SPEED_LIMIT : 60  # km/h
+DELAY : 30  # seconds at each intersection
+KM_TO_METERS : 1000
+SECONDS_PER_HOUR:  3600
+EARTH_RADIUS : 6371  # Earth radius in km for distance calculation
