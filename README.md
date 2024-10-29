@@ -1,4 +1,3 @@
-# COS30018-Intelligent-Systems-
 
 # Traffic Flow Prediction System (TFPS)
 
